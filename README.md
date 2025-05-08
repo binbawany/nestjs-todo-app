@@ -14,8 +14,8 @@ Requirements
 2:Docker Compose
 
 Steps
-1:git clone https://github.com/your-username/your-repo-name.git
-2:cd your-repo-name
+1:git clone https://github.com/binbawany/nestjs-todo-app.git
+2:cd nestjs-todo-app
 3:docker-compose up --build
 📑 API Endpoints
 
